@@ -8,6 +8,6 @@ This project is the part of Kaggle competition, Click here:
    [Read more about the EDA...](#exploratory-data-analysis-what-we-found)
 
 
-* To be updated soon*
+*To be updated soon*
 
 ## Exploratory Data Analysis (What we found)
